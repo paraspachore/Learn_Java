@@ -1,4 +1,4 @@
-package Assignments;
+package assignments;
 
 public class task_calculator {
 
