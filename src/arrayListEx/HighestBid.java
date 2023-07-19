@@ -11,7 +11,6 @@ public class HighestBid {
 		double highestBid = Arrays.stream(bids).max().orElse(0);
 		
 		System.out.println(highestBid);
-
 	}
 
 }

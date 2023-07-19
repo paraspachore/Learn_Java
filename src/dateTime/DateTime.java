@@ -22,7 +22,6 @@ public class DateTime {
 //				System.out.print("\033[H\033[2J");
 //				System.out.flush();
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		}
